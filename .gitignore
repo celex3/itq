@@ -16,5 +16,9 @@ Cargo.lock
 # Environment Variables
 .env
 
+# devenv
+.devenv/
+.devenv.flake.nix
+
 # vscode local settings
 .vscode/
